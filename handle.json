@@ -1,0 +1,5 @@
+{
+  "title": "$handle",
+  "text": "<p>The handle is used to match the page in question to a configuration template, tailored to a group of pages. These pages could have been grouped based on a specific layout type they share. As far as possible, iq digital supplies the $handle identifiers for the defined layout clusters - e.g. homepage ($handle:'homepage'), category and sub-category pages ($handle:'index'), article pages ($handle:'artikel') - which are relevant for the matching and have been agreed upon beforehand. Depending on the editorial layout structure and the requirements for controlling the web presence, a granular or flat $handle clustering may be necessary. For optimal allocation, the site operator must provide a site map with agreed and &quot;open&quot; layout $handle allocation.</p>"
+}
+
